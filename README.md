@@ -1,5 +1,5 @@
 ### Olá! Eu sou Denilson Fernandes 🖐🏾
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-fernandes-962917167/)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-fernandes23/)
 
 ![Denilson Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=DenilsonFernandes18&show_icons=true&theme=radical)
 
