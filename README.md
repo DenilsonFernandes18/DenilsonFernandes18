@@ -50,6 +50,7 @@
   <a href="mailto:denilsonguadalupe23@gmail.com?subject=Contacto%20via%20GitHub&body=Olá%20Denilson" style="text-decoration:none">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
+</details>
 </div>
 
 #### 💬 Procurando estar sempre integrado em projectos de código aberto
