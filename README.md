@@ -1,13 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/><br>
 
 ### Olá! Eu sou Denilson Fernandes 🖐🏾
 
-<div align="left">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div><br/>
-
+<div align="center">
+  <b>Programador WEB</b>
+  <samp>
+      <br>
+      Olá! Eu sou Denilson Fernandes 🖐🏾</b>
+  </samp>
+</div><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-fernandes23/)
 &nbsp;&nbsp;
 <a href="mailto:denilsonguadalupe23@gmail.com?subject=Contacto%20via%20GitHub&body=Olá%20Denilson" style="text-decoration:none">
@@ -41,3 +45,4 @@
 </picture>
 
 #### 💬 Procurando estar sempre integrado em projectos de código aberto
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
