@@ -14,7 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=Eu+sou+de+Angola;Eu+sou+Desenvolvedor+WEB+-+FullStack;Seja+Bem-vindo!" alt="Typing SVG"/>
 </div><br>
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenilsonFernandes18&theme=default)
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenilsonFernandes18&theme=aura"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenilsonFernandes18&theme=aura"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenilsonFernandes18&theme=aura"/>
