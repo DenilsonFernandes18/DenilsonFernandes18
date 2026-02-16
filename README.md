@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/><br>
 
-### Olá! Eu sou Denilson Fernandes 🖐🏾
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div><br/>
@@ -9,9 +7,13 @@
   <b>Programador WEB</b>
   <samp>
       <br>
-      Olá! Eu sou Denilson Fernandes 🖐🏾</b>
+      <b>Olá! Eu sou Denilson Fernandes 🖐🏾</b>
   </samp>
 </div><br/>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=Eu+sou+de+Angola;Eu+sou+Desenvolvedor+WEB+-+FullStack;Seja+Bem-vindo!" alt="Typing SVG"/>
+</div><br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-fernandes23/)
 &nbsp;&nbsp;
 <a href="mailto:denilsonguadalupe23@gmail.com?subject=Contacto%20via%20GitHub&body=Olá%20Denilson" style="text-decoration:none">
