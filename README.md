@@ -4,7 +4,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div><br/>
 
-<a href="https://www.linkedin.com/in/denilson-fernandes23/" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/denilson-fernandes23/" target="_blank" style="margin-right:10px;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkdin logo"/>
 </a>
 <a href="mailto:denilsonguadalupe23@gmail.com?subject=Contacto%20via%20GitHub&body=Olá%20Denilson" style="text-decoration:none">
