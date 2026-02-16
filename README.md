@@ -36,14 +36,12 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Contactos</b>
       </samp>
   </summary>
 <br>
 <div align="center">
-  <samp>
-    <b>Contactos:</b>
-  </samp><br><br>
+
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-fernandes23/)
   &nbsp;&nbsp;
