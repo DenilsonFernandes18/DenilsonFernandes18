@@ -14,12 +14,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=Eu+sou+de+Angola;Eu+sou+Desenvolvedor+WEB+-+FullStack;Seja+Bem-vindo!" alt="Typing SVG"/>
 </div><br>
 <div align="center">
-<img height="165" src="https://stats.dooboo.io/api/github-stats-advanced?login=DenilsonFernandes18&theme=dark" alt="GitHub Stats"/>
-
-  <img height="165" src="https://stats.dooboo.io/api/github-top-langs?login=DenilsonFernandes18&theme=dark" alt="Top Languages"/>
-<img src="https://profile-summary-cards.vercel.app/cards/profile-details?username=DenilsonFernandes18&theme=github_dark" alt="Profile Details" height="165"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenilsonFernandes18&theme=aura"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenilsonFernandes18&theme=aura"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenilsonFernandes18&theme=aura"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenilsonFernandes18&theme=aura"/>
+
 
   <br>
   <br>
