@@ -14,14 +14,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=Eu+sou+de+Angola;Eu+sou+Desenvolvedor+WEB+-+FullStack;Seja+Bem-vindo!" alt="Typing SVG"/>
 </div><br>
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DenilsonFernandes18&theme=aura"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenilsonFernandes18&theme=aura"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenilsonFernandes18&theme=aura"/>
-
-
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenilsonFernandes18&theme=zenburn"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DenilsonFernandes18&theme=aura"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenilsonFernandes18&theme=aura"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenilsonFernandes18&theme=aura"/>
 </div>
 
 ## Tecnologias/Ferramentas:
