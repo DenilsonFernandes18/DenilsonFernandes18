@@ -29,4 +29,7 @@
 
 ![Denilson Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=DenilsonFernandes18&show_icons=true&theme=radical)<br/>
 
-- 💬 Procurando estar sempre integrado em projectos de código aberto
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+#### 💬 Procurando estar sempre integrado em projectos de código aberto
