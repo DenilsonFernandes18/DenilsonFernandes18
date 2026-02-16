@@ -18,7 +18,8 @@
 
   <img height="165" src="https://stats.dooboo.io/api/github-top-langs?login=DenilsonFernandes18&theme=dark" alt="Top Languages"/>
 <img src="https://profile-summary-cards.vercel.app/cards/profile-details?username=DenilsonFernandes18&theme=github_dark" alt="Profile Details" height="165"/>
-<img src="https://profile-summary-cards.vercel.app/cards/repos-per-language?username=DenilsonFernandes18&theme=github_dark" alt="Languages" height="165"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenilsonFernandes18&theme=aura"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DenilsonFernandes18&theme=aura"/>
 
   <br>
   <br>
