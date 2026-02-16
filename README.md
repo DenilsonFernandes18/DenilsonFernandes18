@@ -50,6 +50,10 @@
   </a>
 </details>
 </div>
+<br>
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=DenilsonFernandes18&style=flat-square&color=123845" /></p> 
+</div>
 
 #### 💬 Procurando estar sempre integrado em projectos de código aberto
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
